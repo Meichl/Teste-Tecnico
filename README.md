@@ -1,4 +1,5 @@
-#Teste Técnico
+# Teste Técnico
+
 Este repositório contém a resolução de um teste técnico composto por 5 problemas distintos. Cada problema foi implementado em JavaScript e está organizado em arquivos separados. Abaixo está um resumo de cada problema e como executar os códigos.
 
 Problemas Resolvidos
